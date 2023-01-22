@@ -38,7 +38,7 @@ The outputs of Phase 2 will be saved under the name `./step2/all_pred.csv`, `./s
 ### Execution
 To test run the program, navigate to the main directory and run 
 
-```python main.py --GT './example_data/gt_pva.csv' --d_A './example_data/data_A.csv --d_B' './example_data/data_B.csv' --out_dir './results/' --dataset 'opensnp'```
+```python main.py --GT './example_data/gt_pva.csv' --d_A './example_data/data_A.csv' --d_B './example_data/data_B.csv' --out_dir './results/' --dataset 'opensnp'```
 
 ## Further options
 ### Batch size
