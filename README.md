@@ -2,7 +2,7 @@
 This repository contains the code and experiment results for : <br>
 "Privacy-Preserving Federated Genome-wide Association Studies via Dynamic Sampling"<br>
 
-A detailed example and illustration is provided in `TDS.ipynb`
+A detailed example and illustration is provided in `FDS.ipynb`
 ## Installation
 
 TDS requires that python3 is availble in the exec path in shell. The dependencies can be found in requirements.txt
